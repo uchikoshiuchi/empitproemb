@@ -11,4 +11,10 @@
 
 ## test
 
+<<<<<<< HEAD
 branch is main:
+=======
+
+new branch
+
+>>>>>>> modify on branch develop
